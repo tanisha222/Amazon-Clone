@@ -1,4 +1,5 @@
-#AMAZON CLONE
+AMAZON CLONE
+
 This is a simple clone of the Amazon website built using HTML and CSS.
 
 ![image](https://github.com/user-attachments/assets/78a112bb-097e-441e-9757-4eb2b93e9213)
